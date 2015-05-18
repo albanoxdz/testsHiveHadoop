@@ -1,0 +1,296 @@
+1|Pravastatin  |3,590|Nam interdum enim non nisi. Aenean|9
+2|Nuvaring  |1,800|enim, condimentum eget, volutpat ornare, facilisis eget, ipsum.|10
+3|Sodium  |2,262|Lorem ipsum dolor sit amet,|8
+4|Simvastatin  |4,028|odio. Phasellus at augue id|5
+5|Succinate  |0,721|scelerisque dui. Suspendisse ac metus vitae velit egestas|10
+6|Sodium  |0,192|Vestibulum ut eros non enim commodo|7
+7|Potassium  |3,485|metus. Aenean sed pede nec ante blandit|8
+8|Tartrate  |2,388|molestie tortor nibh sit amet|1
+9|Clavulanate  |0,627|sollicitudin commodo ipsum. Suspendisse non leo.|8
+10|Promethazine  |1,784|condimentum eget, volutpat ornare, facilisis|8
+11|Methylprednisolone  |1,816|urna convallis erat, eget tincidunt dui augue eu|7
+12|Doxycycline  |3,439|at fringilla purus mauris a|6
+13|Trihydrate  |2,574|natoque penatibus et magnis dis parturient montes, nascetur|7
+14|APAP  |4,030|dui. Fusce diam nunc, ullamcorper eu,|4
+15|Carvedilol  |1,625|ac orci. Ut semper pretium|4
+16|Cymbalta  |3,973|pharetra ut, pharetra sed, hendrerit a, arcu.|1
+17|Ciprofloxacin  |2,551|quam dignissim pharetra. Nam ac nulla. In|5
+18|Furosemide  |4,873|pede blandit congue. In scelerisque|2
+19|Hydrocodone  |0,620|Maecenas ornare egestas ligula. Nullam feugiat placerat|6
+20|Levoxyl  |3,492|Nullam enim. Sed nulla ante, iaculis nec, eleifend|7
+21|Amitriptyline  |3,601|egestas. Duis ac arcu. Nunc mauris. Morbi non|10
+22|Lisinopril  |3,896|massa. Integer vitae nibh. Donec|1
+23|Bystolic  |2,741|elementum purus, accumsan interdum libero dui|6
+24|Levothyroxine  |2,280|enim diam vel arcu. Curabitur ut odio|10
+25|Albuterol  |4,495|odio, auctor vitae, aliquet nec, imperdiet nec, leo.|4
+26|M20  |1,887|sollicitudin adipiscing ligula. Aenean gravida nunc sed|6
+27|Lorazepam  |1,365|enim, sit amet ornare lectus justo eu|2
+28|ER  |3,091|egestas, urna justo faucibus lectus, a sollicitudin|7
+29|Metformin  |1,562|congue, elit sed consequat auctor, nunc|2
+30|HCl  |2,740|tristique neque venenatis lacus. Etiam bibendum fermentum metus.|3
+31|Propionate  |0,210|pharetra. Quisque ac libero nec ligula consectetuer|7
+32|HCl  |3,012|et netus et malesuada fames ac turpis egestas.|5
+33|Amoxicillin  |2,477|interdum. Curabitur dictum. Phasellus in felis.|2
+34|Tramadol  |0,462|lobortis tellus justo sit amet nulla.|5
+35|Promethazine  |1,084|purus sapien, gravida non, sollicitudin a, malesuada|6
+36|Ibuprofen  |2,351|nulla ante, iaculis nec, eleifend non, dapibus rutrum,|9
+37|Carvedilol  |1,095|mattis. Cras eget nisi dictum augue malesuada|6
+38|Amoxicillin  |0,994|tellus id nunc interdum feugiat. Sed nec|7
+39|Lisinopril  |0,242|Fusce mi lorem, vehicula et, rutrum eu, ultrices|3
+40|Tramadol  |0,579|Nulla facilisis. Suspendisse commodo tincidunt nibh. Phasellus|10
+41|Ibuprofen  |3,475|ullamcorper, velit in aliquet lobortis, nisi nibh|7
+42|Simvastatin  |3,446|aliquet, sem ut cursus luctus, ipsum|5
+43|Fluoxetine  |4,076|luctus aliquet odio. Etiam ligula tortor,|6
+44|Diovan  |4,934|non ante bibendum ullamcorper. Duis cursus, diam at|3
+45|Triamterene  |2,781|Phasellus in felis. Nulla tempor|1
+46|Atenolol  |1,044|egestas blandit. Nam nulla magna, malesuada vel, convallis|9
+47|Sodium  |4,801|in consequat enim diam vel arcu. Curabitur|1
+48|Lisinopril  |1,624|enim, gravida sit amet, dapibus id, blandit|5
+49|Singulair  |1,484|et tristique pellentesque, tellus sem mollis dui,|4
+50|Oxycodone  |1,200|tincidunt adipiscing. Mauris molestie pharetra nibh.|6
+51|Amoxicillin  |2,818|orci quis lectus. Nullam suscipit, est|8
+52|Pantoprazole  |1,173|eget varius ultrices, mauris ipsum porta|6
+53|Glipizide  |1,868|consectetuer rhoncus. Nullam velit dui,|10
+54|HBr  |2,779|aliquam eu, accumsan sed, facilisis vitae, orci. Phasellus|2
+55|Clonazepam  |2,181|sed libero. Proin sed turpis nec mauris blandit|4
+56|Nexium  |1,902|faucibus id, libero. Donec consectetuer mauris id sapien.|10
+57|Gabapentin  |2,566|enim nec tempus scelerisque, lorem ipsum|3
+58|Clonazepam  |4,323|lectus convallis est, vitae sodales nisi|1
+59|Levothyroxine  |4,096|sociis natoque penatibus et magnis dis parturient|4
+60|Hydrochlorothiazide  |1,173|venenatis a, magna. Lorem ipsum dolor|6
+61|Zetia  |4,348|egestas. Aliquam nec enim. Nunc ut|3
+62|Besylate  |3,412|Vivamus sit amet risus. Donec|2
+63|Carisoprodol  |1,636|Maecenas mi felis, adipiscing fringilla,|10
+64|Succinate  |2,314|quis, pede. Praesent eu dui. Cum|1
+65|Ciprofloxacin  |2,885|imperdiet non, vestibulum nec, euismod in, dolor.|5
+66|Warfarin  |1,592|tellus sem mollis dui, in sodales elit erat|6
+67|Citalopram  |4,438|mi eleifend egestas. Sed pharetra, felis eget varius|10
+68|Omeprazole  |3,472|dui. Fusce diam nunc, ullamcorper eu, euismod|6
+69|Ibuprofen  |1,442|Quisque libero lacus, varius et, euismod et,|1
+70|24  |2,202|ipsum ac mi eleifend egestas. Sed pharetra, felis|4
+71|Pravastatin  |4,467|nec urna et arcu imperdiet ullamcorper. Duis at|9
+72|Atenolol  |2,426|sed, est. Nunc laoreet lectus quis massa. Mauris|2
+73|Lyrica  |2,532|amet nulla. Donec non justo. Proin non massa|3
+74|Diskus  |1,082|volutpat ornare, facilisis eget, ipsum.|2
+75|Sertraline  |3,295|consectetuer adipiscing elit. Etiam laoreet, libero et|10
+76|Fe  |1,435|metus. In nec orci. Donec nibh. Quisque|3
+77|LevothyroxineSodium  |3,632|lectus justo eu arcu. Morbi sit|9
+78|Tri-Sprintec  |2,014|Duis dignissim tempor arcu. Vestibulum ut eros non|2
+79|Nuvaring  |1,729|orci lobortis augue scelerisque mollis. Phasellus libero mauris,|2
+80|Carvedilol  |3,266|vel nisl. Quisque fringilla euismod|2
+81|APAP  |1,908|non dui nec urna suscipit nonummy. Fusce|10
+82|Ventolin  |1,576|mollis dui, in sodales elit erat vitae risus.|9
+83|Sodium  |3,445|mi eleifend egestas. Sed pharetra, felis|7
+84|Fluoxetine  |2,935|accumsan sed, facilisis vitae, orci. Phasellus|8
+85|Abilify  |2,167|Morbi non sapien molestie orci tincidunt adipiscing.|5
+86|Sodium  |3,682|libero et tristique pellentesque, tellus sem mollis dui,|5
+87|Oxycontin  |3,020|quis diam luctus lobortis. Class aptent taciti sociosqu|9
+88|Diovan  |3,262|tortor at risus. Nunc ac sem|2
+89|Clavulanate  |0,685|aliquam arcu. Aliquam ultrices iaculis odio. Nam|9
+90|Lovaza  |3,662|et, lacinia vitae, sodales at, velit. Pellentesque|7
+91|Singulair  |3,177|cursus. Integer mollis. Integer tincidunt aliquam arcu.|8
+92|Fluticasone  |3,173|mauris sagittis placerat. Cras dictum ultricies|1
+93|Lidoderm  |1,021|ut lacus. Nulla tincidunt, neque|2
+94|Lantus  |3,886|ipsum. Curabitur consequat, lectus sit amet luctus vulputate,|9
+95|Sodium  |1,787|Phasellus in felis. Nulla tempor augue ac|1
+96|Trimethoprim  |4,777|aliquam eros turpis non enim. Mauris|4
+97|Proair  |3,507|ligula elit, pretium et, rutrum non,|1
+98|Albuterol  |0,356|venenatis lacus. Etiam bibendum fermentum metus.|2
+99|Ciprofloxacin  |0,834|tellus. Aenean egestas hendrerit neque. In|3
+100|Lorazepam  |1,545|ac sem ut dolor dapibus gravida.|4
+101|Citalopram  |3,593|molestie pharetra nibh. Aliquam ornare, libero at|2
+102|Simvastatin  |1,227|ligula. Nullam feugiat placerat velit. Quisque varius.|7
+103|  |3,043|Ut tincidunt vehicula risus. Nulla eget|10
+104|APAP  |4,517|Curabitur consequat, lectus sit amet luctus|3
+105|HFA  |0,943|nec tempus scelerisque, lorem ipsum sodales purus, in|2
+106|  |0,227|nunc nulla vulputate dui, nec|7
+107|Tartrate  |2,579|quam quis diam. Pellentesque habitant|1
+108|Levoxyl  |3,142|nulla. In tincidunt congue turpis. In|2
+109|Trihydrate  |1,088|nascetur ridiculus mus. Proin vel nisl.|2
+110|Risperidone  |3,089|aliquet, metus urna convallis erat,|9
+111|Amoxicillin  |2,071|nascetur ridiculus mus. Proin vel|2
+112|Synthroid  |3,455|Vestibulum ante ipsum primis in faucibus|2
+113|Lidoderm  |3,034|nascetur ridiculus mus. Donec dignissim magna|10
+114|Simvastatin  |2,206|arcu vel quam dignissim pharetra.|9
+115|Triamterene  |0,974|sed dui. Fusce aliquam, enim nec tempus|3
+116|HCl  |4,232|a, magna. Lorem ipsum dolor sit|9
+117|Citalopram  |0,480|Proin vel arcu eu odio tristique pharetra. Quisque|6
+118|(Rx)  |3,640|in magna. Phasellus dolor elit, pellentesque|10
+119|Chloride  |4,878|Aenean egestas hendrerit neque. In ornare|6
+120|Amphetamine  |1,684|auctor vitae, aliquet nec, imperdiet nec, leo.|1
+121|Glipizide  |2,724|purus gravida sagittis. Duis gravida. Praesent eu|8
+122|HCl  |4,862|Duis sit amet diam eu|1
+123|HCl  |2,460|aliquet. Phasellus fermentum convallis ligula. Donec|5
+124|HCl  |0,683|Integer tincidunt aliquam arcu. Aliquam|5
+125|Tamsulosin  |3,061|magna. Suspendisse tristique neque venenatis lacus. Etiam bibendum|10
+126|Amlodipine  |4,767|non magna. Nam ligula elit, pretium et,|5
+127|Triamcinolone  |3,804|a, aliquet vel, vulputate eu, odio. Phasellus|10
+128|Folic  |2,945|ac mattis semper, dui lectus rutrum|7
+129|Lorazepam  |1,266|Lorem ipsum dolor sit amet, consectetuer|7
+130|Losartan  |2,355|Nam ac nulla. In tincidunt congue turpis.|3
+131|Venlafaxine  |1,074|elit. Nulla facilisi. Sed neque. Sed eget|8
+132|HCl  |1,074|placerat velit. Quisque varius. Nam porttitor scelerisque|3
+133|Carvedilol  |2,453|quam. Pellentesque habitant morbi tristique|10
+134|ER  |2,599|a, auctor non, feugiat nec, diam.|2
+135|Amoxicillin  |3,412|In scelerisque scelerisque dui. Suspendisse ac metus|9
+136|Oxycontin  |1,550|Sed dictum. Proin eget odio. Aliquam vulputate|9
+137|Glyburide  |3,958|non, cursus non, egestas a, dui. Cras pellentesque.|4
+138|AC  |0,430|aliquam eu, accumsan sed, facilisis vitae, orci. Phasellus|4
+139|Simvastatin  |4,537|lacus. Quisque imperdiet, erat nonummy ultricies ornare, elit|1
+140|Cyclobenzaprin  |1,640|Cras sed leo. Cras vehicula aliquet|6
+141|Triamterene  |3,052|Donec sollicitudin adipiscing ligula. Aenean gravida nunc sed|7
+142|Azithromycin  |3,360|fames ac turpis egestas. Fusce aliquet magna a|3
+143|HCl  |2,367|sed dolor. Fusce mi lorem, vehicula et,|6
+144|HCl  |2,763|pretium aliquet, metus urna convallis erat, eget|8
+145|Atenolol  |4,436|consectetuer adipiscing elit. Curabitur sed tortor.|2
+146|HCT  |4,982|Curabitur massa. Vestibulum accumsan neque et|9
+147|Azithromycin  |4,203|enim mi tempor lorem, eget mollis|4
+148|Lovaza  |4,562|sit amet, consectetuer adipiscing elit.|3
+149|Gianvi  |3,198|pharetra, felis eget varius ultrices, mauris ipsum porta|1
+150|Sodium  |1,898|amet, dapibus id, blandit at,|4
+151|Clavulanate  |3,705|scelerisque neque sed sem egestas blandit.|5
+152|Celebrex  |4,199|neque sed sem egestas blandit. Nam|3
+153|  |3,236|non, dapibus rutrum, justo. Praesent luctus. Curabitur egestas|3
+154|Levothyroxine  |3,750|libero. Proin sed turpis nec mauris blandit mattis.|8
+155|Propionate  |2,246|id ante dictum cursus. Nunc|9
+156|Diovan  |2,231|Cum sociis natoque penatibus et|7
+157|HBr  |2,860|dictum eu, eleifend nec, malesuada ut,|10
+158|APAP  |0,521|Curabitur vel lectus. Cum sociis natoque|2
+159|Lisinopril  |1,506|natoque penatibus et magnis dis parturient montes, nascetur|9
+160|Lisinopril  |2,154|diam eu dolor egestas rhoncus. Proin|9
+161|Famotidine  |2,624|Aliquam ultrices iaculis odio. Nam interdum|1
+162|Sertraline  |2,325|nisi nibh lacinia orci, consectetuer euismod est|9
+163|Tartrate  |3,527|Quisque purus sapien, gravida non, sollicitudin a, malesuada|8
+164|Alendronate  |1,675|id sapien. Cras dolor dolor, tempus non, lacinia|2
+165|Lisinopril  |0,386|nascetur ridiculus mus. Proin vel arcu eu|2
+166|ER  |4,329|purus sapien, gravida non, sollicitudin a,|2
+167|Benicar  |1,645|interdum feugiat. Sed nec metus facilisis|5
+168|Ciprofloxacin  |3,521|mauris id sapien. Cras dolor dolor, tempus|2
+169|Cheratussin  |3,458|fringilla purus mauris a nunc.|3
+170|Simvastatin  |1,232|vitae odio sagittis semper. Nam tempor diam dictum|4
+171|Atenolol  |2,909|Morbi metus. Vivamus euismod urna. Nullam|3
+172|HCl  |3,925|et, lacinia vitae, sodales at, velit. Pellentesque|9
+173|Hydrocodone  |0,327|Donec elementum, lorem ut aliquam|1
+174|Sertraline  |0,553|Duis at lacus. Quisque purus sapien, gravida non,|10
+175|  |2,468|dui. Cras pellentesque. Sed dictum.|10
+176|HCl  |0,208|vel arcu. Curabitur ut odio vel est|8
+177|Famotidine  |1,522|Aliquam ultrices iaculis odio. Nam interdum|2
+178|Fluoxetine  |2,604|egestas lacinia. Sed congue, elit sed|6
+179|Lisinopril  |4,085|odio a purus. Duis elementum,|10
+180|Furosemide  |1,859|Fusce mi lorem, vehicula et, rutrum eu,|3
+181|(Rx)  |3,186|Lorem ipsum dolor sit amet, consectetuer|6
+182|HCl  |0,515|Suspendisse eleifend. Cras sed leo. Cras|6
+183|Clindamycin  |3,525|erat nonummy ultricies ornare, elit elit fermentum risus,|6
+184|Omeprazole  |4,270|Mauris quis turpis vitae purus|5
+185|Alendronate  |3,255|amet lorem semper auctor. Mauris vel turpis. Aliquam|7
+186|Chloride  |2,151|rutrum, justo. Praesent luctus. Curabitur egestas|1
+187|Pantoprazole  |1,960|eros nec tellus. Nunc lectus pede, ultrices|4
+188|HCl  |4,752|tellus faucibus leo, in lobortis tellus|10
+189|Succinate  |4,709|tellus. Suspendisse sed dolor. Fusce mi lorem,|2
+190|Alprazolam  |0,505|venenatis lacus. Etiam bibendum fermentum metus. Aenean|7
+191|Trimethoprim  |3,631|eu sem. Pellentesque ut ipsum|2
+192|Hydrochlorothiazide  |2,517|Aliquam auctor, velit eget laoreet|8
+193|Klor-Con  |1,857|eu erat semper rutrum. Fusce dolor|9
+194|Losartan  |4,925|elit fermentum risus, at fringilla purus mauris|1
+195|Fluticasone  |1,860|quis accumsan convallis, ante lectus|7
+196|Amlodipine  |2,866|neque. Sed eget lacus. Mauris non dui nec|8
+197|HFA  |3,763|eu, ligula. Aenean euismod mauris eu|4
+198|HFA  |1,654|ac libero nec ligula consectetuer rhoncus. Nullam velit|9
+199|Hydrochlorothiazide  |2,494|vitae mauris sit amet lorem semper auctor.|10
+200|AC  |1,296|mi lorem, vehicula et, rutrum eu, ultrices sit|8
+201|Hydrocodone  |3,514|mauris sapien, cursus in, hendrerit consectetuer, cursus|7
+202|Zolpidem  |0,461|risus varius orci, in consequat|10
+203|Metformin  |3,115|nibh vulputate mauris sagittis placerat. Cras dictum|3
+204|Diskus  |0,103|Proin sed turpis nec mauris blandit|8
+205|(Rx)  |2,917|et netus et malesuada fames|8
+206|Pantoprazole  |0,247|eget, venenatis a, magna. Lorem|8
+207|Advair  |3,331|non sapien molestie orci tincidunt adipiscing.|1
+208|Tramadol  |3,193|justo. Proin non massa non ante|10
+209|Alprazolam  |4,732|sem egestas blandit. Nam nulla magna, malesuada vel,|2
+210|Hydrochlorothiazide  |1,640|dictum. Proin eget odio. Aliquam vulputate ullamcorper|8
+211|Diskus  |1,243|mauris, aliquam eu, accumsan sed, facilisis vitae, orci.|1
+212|APAP  |4,660|dignissim tempor arcu. Vestibulum ut eros non|2
+213|HCl  |3,315|Duis mi enim, condimentum eget, volutpat ornare, facilisis|7
+214|Sodium  |3,519|interdum. Sed auctor odio a|7
+215|Pantoprazole  |4,650|ac risus. Morbi metus. Vivamus euismod urna.|2
+216|Levoxyl  |0,198|malesuada ut, sem. Nulla interdum.|7
+217|Gabapentin  |0,191|est mauris, rhoncus id, mollis nec, cursus|5
+218|HCl  |1,900|malesuada fames ac turpis egestas. Fusce aliquet|5
+219|HBR  |2,381|sapien, cursus in, hendrerit consectetuer, cursus et, magna.|6
+220|LevothyroxineSodium  |2,771|mauris a nunc. In at pede. Cras|1
+221|Potassium  |3,592|commodo auctor velit. Aliquam nisl. Nulla|5
+222|Naproxen  |3,329|nisi. Aenean eget metus. In nec orci.|8
+223|Ventolin  |2,720|Nunc laoreet lectus quis massa. Mauris vestibulum,|1
+224|Ciprofloxacin  |4,064|augue ac ipsum. Phasellus vitae mauris|6
+225|Furosemide  |1,100|posuere cubilia Curae Donec tincidunt. Donec|9
+226|Ciprofloxacin  |1,936|mauris, rhoncus id, mollis nec, cursus|2
+227|Azithromycin  |4,248|vitae risus. Duis a mi fringilla mi lacinia|9
+228|LevothyroxineSodium  |1,506|Sed neque. Sed eget lacus.|3
+229|Cephalexin  |0,637|pharetra. Nam ac nulla. In tincidunt|1
+230|Cephalexin  |0,733|Integer mollis. Integer tincidunt aliquam arcu.|1
+231|Oxycodone  |1,451|auctor odio a purus. Duis|10
+232|Pravastatin  |3,275|libero. Donec consectetuer mauris id|2
+233|Tartrate  |3,328|nec, leo. Morbi neque tellus, imperdiet|4
+234|Vytorin  |3,436|In condimentum. Donec at arcu.|7
+235|Hydrochlorothiazide  |3,950|ac, eleifend vitae, erat. Vivamus nisi. Mauris nulla.|6
+236|Actos  |1,356|dolor. Nulla semper tellus id|1
+237|Cheratussin  |0,583|commodo tincidunt nibh. Phasellus nulla.|2
+238|  |0,945|quam dignissim pharetra. Nam ac|1
+239|(Rx)  |2,748|volutpat ornare, facilisis eget, ipsum. Donec sollicitudin adipiscing|7
+240|  |2,378|leo. Morbi neque tellus, imperdiet non,|8
+241|(Rx)  |0,713|iaculis, lacus pede sagittis augue,|4
+242|Succinate  |0,734|tellus faucibus leo, in lobortis tellus|5
+243|Lexapro  |3,428|habitant morbi tristique senectus et netus|8
+244|Simvastatin  |4,899|amet, risus. Donec nibh enim, gravida|10
+245|Lisinopril  |3,683|Phasellus fermentum convallis ligula. Donec luctus aliquet|3
+246|APAP  |3,870|dictum mi, ac mattis velit|6
+247|Maleate  |4,425|sem magna nec quam. Curabitur vel lectus. Cum|6
+248|Cephalexin  |1,497|neque. Nullam ut nisi a odio|8
+249|  |2,455|sit amet nulla. Donec non justo. Proin non|4
+250|Lantus  |2,113|sociis natoque penatibus et magnis dis parturient montes,|5
+251|HBr  |0,530|lacus. Quisque purus sapien, gravida non, sollicitudin a,|1
+252|Lisinopril  |3,073|auctor quis, tristique ac, eleifend|2
+253|Hydrochlorothiazide  |2,151|Donec felis orci, adipiscing non, luctus|1
+254|Prednisone  |0,689|elit pede, malesuada vel, venenatis vel,|6
+255|Fluticasone  |2,712|Vivamus nisi. Mauris nulla. Integer urna. Vivamus|6
+256|HCl  |4,861|vitae diam. Proin dolor. Nulla semper|5
+257|Alendronate  |3,299|pharetra sed, hendrerit a, arcu. Sed et libero.|10
+258|Prednisone  |1,492|sapien. Aenean massa. Integer vitae nibh. Donec est|2
+259|Zetia  |3,553|elit elit fermentum risus, at fringilla|9
+260|Zolpidem  |0,707|sit amet, faucibus ut, nulla.|6
+261|Digoxin  |0,578|ut eros non enim commodo hendrerit. Donec|3
+262|Nasonex  |0,494|semper. Nam tempor diam dictum sapien. Aenean massa.|1
+263|Fe  |0,994|lacus pede sagittis augue, eu|3
+264|Enalapril  |2,176|sit amet ultricies sem magna nec quam. Curabitur|8
+265|Oxycodone  |1,658|Integer vitae nibh. Donec est mauris, rhoncus id,|7
+266|Metoprolol  |1,366|consectetuer adipiscing elit. Etiam laoreet, libero et tristique|6
+267|Symbicort  |3,986|pede, ultrices a, auctor non, feugiat nec,|5
+268|Citalopram  |0,818|Nunc lectus pede, ultrices a,|1
+269|HCl  |1,113|fermentum fermentum arcu. Vestibulum ante|1
+270|HFA  |1,432|mauris id sapien. Cras dolor dolor,|7
+271|Acetonide  |4,867|magnis dis parturient montes, nascetur|9
+272|Vitamin  |3,233|ac risus. Morbi metus. Vivamus|5
+273|  |4,615|egestas. Aliquam fringilla cursus purus. Nullam scelerisque|3
+274|Amoxicillin  |4,957|rhoncus. Donec est. Nunc ullamcorper, velit in aliquet|5
+275|Acetonide  |3,859|Aenean gravida nunc sed pede. Cum|2
+276|(Rx)  |3,665|sit amet, consectetuer adipiscing elit. Aliquam auctor,|9
+277|Diazepam  |1,091|lorem, vehicula et, rutrum eu, ultrices sit amet,|8
+278|Besylate  |3,364|ipsum nunc id enim. Curabitur|6
+279|Diskus  |1,145|et magnis dis parturient montes, nascetur ridiculus mus.|5
+280|HCl  |1,071|Aliquam nisl. Nulla eu neque|6
+281|  |3,056|tristique ac, eleifend vitae, erat. Vivamus nisi.|2
+282|Amoxicillin  |2,224|Sed congue, elit sed consequat|4
+283|Zolpidem  |0,853|Duis sit amet diam eu dolor egestas rhoncus.|7
+284|ER  |3,139|natoque penatibus et magnis dis|8
+285|HFA  |4,727|mollis vitae, posuere at, velit.|3
+286|HCl  |3,032|lacinia mattis. Integer eu lacus.|6
+287|Sodium  |2,428|ipsum nunc id enim. Curabitur|10
+288|HCl  |2,328|et, eros. Proin ultrices. Duis volutpat|8
+289|  |3,404|Nunc lectus pede, ultrices a,|3
+290|M20  |2,231|dui quis accumsan convallis, ante|5
+291|Gabapentin  |0,106|odio. Nam interdum enim non nisi. Aenean|8
+292|HCl  |1,639|feugiat metus sit amet ante. Vivamus non|10
+293|Gabapentin  |2,321|consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam|3
+294|Alprazolam  |3,033|augue scelerisque mollis. Phasellus libero mauris,|10
+295|Losartan  |2,603|pellentesque, tellus sem mollis dui, in|8
+296|Citalopram  |1,258|et, rutrum non, hendrerit id, ante.|4

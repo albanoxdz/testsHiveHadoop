@@ -1,0 +1,1 @@
+SELECT trans_cli_id,trans_value FROM transactions ORDER BY trans_value DESC;
