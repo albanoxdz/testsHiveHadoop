@@ -1,0 +1,100 @@
+1|191-9308 Lacus Av.|Vienna|0201AV|Wie|Armenia|64.66956|-134.42821
+2|320-9191 Erat. Av.|Pontevedra|45276|GA|United Kingdom (Great Britain)|-9.54398|-161.36753
+3|5485 Vitae, Ave|Cobourg|69752|Ontario|Nauru|40.36352|-74.17639
+4|8940 Placerat Rd.|Cairns|149631|QLD|Mauritania|17.55815|-59.4135
+5|Ap #262-5675 Eu St.|Tarrasa|09-199|CA|India|-11.9199|-45.67598
+6|305-4620 Libero Street|Hamburg|7542MU|HH|Nicaragua|-36.8484|113.42231
+7|Ap #712-7743 Integer Street|Elx|32380|CV|Cambodia|-33.85837|71.4864
+8|P.O. Box 766, 4128 Ut Road|Osasco|3817AT|SP|Nicaragua|-63.28413|-143.5015
+9|243-3098 Varius Rd.|Belfast|8210|Ulster|Saudi Arabia|-45.13525|-3.2066
+10|P.O. Box 909, 8341 Non Street|Pierrefonds|8026|Quebec|Libya|22.41037|-6.01366
+11|Ap #821-2074 Non St.|Gap|11954|PR|Chad|89.85138|-158.12071
+12|P.O. Box 134, 4465 Et Av.|Lódz|16266|lódzkie|Tunisia|41.96755|-116.95124
+13|190-3231 Morbi Rd.|Hamilton|870104|ON|Belarus|-1.35248|66.94338
+14|Ap #548-1600 Duis Av.|Istanbul|50116|Ist|French Southern Territories|-11.20356|-125.88466
+15|324-9297 A Road|Ayas|10251-663|VDA|Monaco|26.99998|-96.33132
+16|765-1047 Odio Avenue|Bida|V62 9KO|NI|Greece|-14.21881|92.95609
+17|8622 Iaculis Rd.|Lafayette|A1G 0B4|Louisiana|Cuba|-40.52023|175.84294
+18|258-878 At Ave|Hamburg|5526|HH|Honduras|-23.30018|179.87979
+19|Ap #228-5314 Molestie. Av.|Provo|27718-396|UT|Finland|60.27647|176.25979
+20|Ap #212-6916 Risus. Rd.|Zaria|6927|KD|Tokelau|21.05634|42.83572
+21|494-5006 Taciti St.|Campbeltown|3750QE|AR|Singapore|-62.96112|-79.19896
+22|P.O. Box 494, 4787 Non Street|Vannes|7022AN|Bretagne|Georgia|-6.19072|75.42892
+23|206-1920 Accumsan St.|Tuscaloosa|77759|AL|Portugal|-66.20962|-38.64664
+24|580-3524 Pellentesque Road|Fallais|E7G 5L8|LU|Palau|-50.82647|27.39667
+25|P.O. Box 348, 6541 Commodo St.|Ercolano|713195|Campania|Seychelles|76.7099|145.7594
+26|Ap #658-8228 Velit Ave|Ahmedabad|80357|GJ|Cocos (Keeling) Islands|-71.56313|146.56422
+27|175-8517 Natoque Rd.|Bauchi|388104|BA|Pakistan|-83.27886|133.67659
+28|Ap #195-9516 Urna Av.|Breda|6168|Noord Brabant|Burkina Faso|89.24207|-130.73685
+29|P.O. Box 869, 715 Nisl. Rd.|Mandasor|52909|Madhya Pradesh|Azerbaijan|0.10298|-22.05172
+30|P.O. Box 295, 7249 Lorem, Rd.|Jacksonville|16740|Florida|Åland Islands|-4.74909|-103.34401
+31|P.O. Box 727, 6132 Quis, Ave|Santipur|95287-528|West Bengal|Ukraine|-44.08426|-161.04832
+32|P.O. Box 735, 7892 Quis St.|Berlin|35-142|BE|Albania|36.76618|-126.6575
+33|P.O. Box 211, 4284 Nibh. Avenue|Tokoroa|979000|North Island|Sri Lanka|-79.27981|156.44737
+34|7646 Sit Ave|Breda|50428|N.|Mexico|-47.49335|39.80527
+35|P.O. Box 775, 2912 Faucibus. St.|Stonewall|3635|MB|Heard Island and Mcdonald Islands|-19.21813|17.36622
+36|Ap #560-6809 Pellentesque, Street|Horsham|L7A 4A6|Victoria|Kiribati|43.54579|-153.38964
+37|752-2192 Bibendum. Rd.|Broken Hill|7764|New South Wales|Timor-Leste|5.54242|84.20467
+38|220-7072 Dapibus Av.|Évreux|23609|Haute-Normandie|Turkey|34.48662|-5.04551
+39|1661 Lectus. Rd.|Hereford|N8K 8P1|Herefordshire|Zimbabwe|25.87805|-54.82674
+40|Ap #975-2630 Egestas. Rd.|Hamburg|27942|HH|Iran|-7.5437|-58.81111
+41|922-5319 Ipsum St.|Launceston|03-148|TAS|Afghanistan|15.35594|-8.06261
+42|Ap #937-5034 Donec Rd.|Cumberland|5575|Ontario|Australia|-89.35759|8.51524
+43|750-7691 Mauris Ave|Wadgassen|E7C 7S5|SH|Georgia|30.30159|118.19135
+44|7979 Porttitor Ave|Anápolis|89202|Goiás|Mali|49.6309|-46.08404
+45|Ap #123-6487 Posuere Street|Mondolfo|84900|Marche|French Polynesia|84.33506|-7.25002
+46|3839 Malesuada St.|Uyo|65073|Akwa Ibom|Sweden|-76.05234|108.39446
+47|P.O. Box 889, 8812 Luctus Street|San Pedro|10818|San José|Albania|-57.62056|-14.24006
+48|323-2649 Ridiculus Ave|Brest|39961|BR|Finland|-64.47646|-6.39993
+49|840-9008 Enim. Road|Vienna|61512|Wie|Antarctica|-1.37193|-156.24085
+50|Ap #733-4133 Enim Street|Lille|393690|NO|Namibia|-21.35106|179.10187
+51|471-8929 Nulla. Road|San José|27271-059|San José|Malta|-89.63568|-170.01212
+52|Ap #481-8318 Metus Ave|Guadalupe|39531|San José|Djibouti|74.9896|103.67007
+53|P.O. Box 992, 1889 Metus St.|Bihar Sharif|99945|BR|Fiji|-58.4364|-18.77188
+54|Ap #400-9994 Eros St.|Benestare|92645|CAL|Curaçao|-12.52817|-14.2655
+55|947-5616 Elementum Av.|Carapicuíba|7519YE|SP|Cocos (Keeling) Islands|-44.74301|153.79162
+56|7526 Ullamcorper Avenue|Lakeshore|01947|ON|Cayman Islands|-1.942|49.72591
+57|P.O. Box 890, 6164 Et Street|Notre-Dame-de-la-Salette|11632|QC|Serbia|-51.31301|126.46619
+58|653-5498 Sed Street|Ebenthal in Kärnten|04792|Carinthia|Slovakia|51.31249|-152.65008
+59|Ap #105-8666 Semper Avenue|Ruthin|4345|Denbighshire|Martinique|47.11821|65.00355
+60|Ap #583-4249 Ad St.|Oyo|875247|Oyo|Mexico|21.60314|171.96574
+61|Ap #424-6419 Quis, Rd.|Berlin|51015|BE|United Kingdom (Great Britain)|-77.6735|46.8703
+62|Ap #688-2357 Ut St.|Redcliffe|19287|Queensland|Bahrain|-13.63438|109.23564
+63|7527 Orci. Ave|Drancy|6460|Île-de-France|Kenya|-16.23476|48.06849
+64|2447 Sem. Rd.|Lódz|20934-590|LD|United States|33.04186|-64.93453
+65|9531 Aliquam Avenue|Cork|H1P 3H5|Munster|Portugal|-65.55965|-105.67995
+66|8334 Ut Avenue|Nurdagi|27996-040|Gaz|Bermuda|85.20128|105.19878
+67|102-7361 Ante Avenue|Siedlce|30717|Mazowieckie|South Georgia and The South Sandwich Islands|8.31902|-142.71111
+68|Ap #126-9065 Fermentum Street|Loksbergen|21817|L.|Saint Vincent and The Grenadines|9.42314|83.64987
+69|4966 Sed St.|Okene|7965|KO|Togo|50.52731|154.48387
+70|P.O. Box 788, 5445 Quisque St.|Kano|555683|KN|Saint Pierre and Miquelon|-21.23509|11.53143
+71|8879 Nulla. Ave|Mercedes|6250|Heredia|Lithuania|-57.42058|-56.73654
+72|902-3470 Pede Street|Port Pirie|J0G 6L1|SA|Guinea-Bissau|88.44334|-158.33575
+73|250-5644 Tellus. Road|Armadale|5250GY|Western Australia|Iran|20.89364|63.06386
+74|P.O. Box 250, 2255 Est, Ave|San Rafael|74348|A|Denmark|62.26889|168.5882
+75|3709 Odio. Av.|Glendale|9067|AZ|Comoros|57.39569|117.33426
+76|Ap #142-8426 Amet Street|Vichy|15447|AU|Libya|-20.36391|49.14118
+77|879-5954 Habitant Ave|Maubeuge|69832|NO|Åland Islands|-78.94915|59.6069
+78|Ap #106-2255 Turpis Street|Getafe|51205|MA|Yemen|11.76452|99.30405
+79|Ap #661-8993 Suspendisse Road|Launceston|713602|Tasmania|Lithuania|19.01711|-157.83597
+80|P.O. Box 538, 8123 Fermentum Rd.|Istanbul|0174|Ist|Viet Nam|-19.38942|-48.91586
+81|3639 Nunc St.|Rulles|6363|LX|Estonia|27.08289|146.50624
+82|P.O. Box 426, 4628 A Rd.|Bossi?re|4382|Namen|Burundi|16.40826|-98.52757
+83|Ap #703-8282 Nisl. St.|Dehri|75259|Bihar|Netherlands|37.61058|-143.04256
+84|Ap #397-8220 Eu, Rd.|Lille|28348|AN|Northern Mariana Islands|67.21686|-20.98204
+85|431-6311 Ullamcorper Road|Berlin|811165|BE|Anguilla|-29.69616|-164.76974
+86|Ap #515-1903 Est Street|Gboko|92461|BE|Cook Islands|61.07699|-111.31252
+87|223-7546 Amet Street|Buguma|07865|RI|Kiribati|-46.72143|149.57276
+88|402-3115 Purus. St.|Aylmer|714765|Quebec|Comoros|-3.93605|-51.73332
+89|6380 Erat Avenue|Sloten|06220|Fr|Western Sahara|-34.88143|-12.2568
+90|Ap #516-8590 Eu, Av.|Hamburg|18860|HH|Sudan|5.4675|44.48603
+91|P.O. Box 541, 3353 Lobortis Av.|San Juan de Dios|B4E 6G9|SJ|Oman|-38.14074|148.96331
+92|7219 Curabitur Avenue|Vienna|T1B 7L4|Wie|Gabon|18.59725|-68.25421
+93|Ap #430-8492 Vestibulum Av.|Chattanooga|980349|TN|Honduras|65.75635|155.34613
+94|P.O. Box 397, 5176 Viverra. Avenue|Dreux|40229|CE|Iceland|73.83725|173.39678
+95|P.O. Box 794, 4358 Etiam Av.|Nieuwegein|Y7K 2B7|Utrecht|Cyprus|-67.04127|-33.71084
+96|P.O. Box 669, 740 Sed Road|Huntsville|6115|AL|Palau|42.59017|-54.0972
+97|P.O. Box 554, 3923 Parturient Road|Ilhéus|90-064|BA|Lebanon|3.46783|-30.23222
+98|185-885 Faucibus Street|Zutphen|10919|Gelderland|Peru|78.88965|83.90322
+99|P.O. Box 781, 455 Turpis Road|Swansea|9579|Glamorgan|Togo|-44.77574|-70.29898
+100|282-1525 Arcu St.|Vitória da Conquista|XV8E 5YB|Bahia|Samoa|-69.45971|130.86998
