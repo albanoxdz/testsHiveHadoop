@@ -1,5 +1,6 @@
 CREATE EXTERNAL TABLE categories( 
-    cat_id INT,     cat_name  STRING, 
+    cat_id INT,
+    cat_name  STRING, 
     cat_description STRING 
      ) 
     ROW FORMAT DELIMITED 

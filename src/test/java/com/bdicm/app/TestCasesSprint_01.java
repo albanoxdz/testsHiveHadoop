@@ -31,7 +31,7 @@ public class TestCasesSprint_01 {
 
 
     private static final Charset ENCODING = StandardCharsets.UTF_8;
-	private static final int toIndex = 1;
+	private static final int listSize = 20;
     public List<File> queryFiles = getFiles("/home/usuario/Desktop/queries");
     public List<File> resultFiles = getFiles("/home/usuario/Desktop/results");
 
@@ -49,40 +49,41 @@ public class TestCasesSprint_01 {
 
     @HiveResource(targetFile = "${hiveconf:MY.HDFS.DIR}/cards/cards_table.csv")
     private File dataFromFile1 =
-            new File(ClassLoader.getSystemResource("testCasesResources/cards_table.txt").getPath());
+            new File(ClassLoader.getSystemResource("tables/cards_table.txt").getPath());
     
     @HiveResource(targetFile = "${hiveconf:MY.HDFS.DIR}/categories/categories_table.csv")
     private File dataFromFile2 =
-            new File(ClassLoader.getSystemResource("testCasesResources/categories_table.txt").getPath());
+            new File(ClassLoader.getSystemResource("tables/categories_table.txt").getPath());
     
     @HiveResource(targetFile = "${hiveconf:MY.HDFS.DIR}/clients/clients_table.csv")
     private File dataFromFile4 =
-            new File(ClassLoader.getSystemResource("testCasesResources/clients_table.txt").getPath());
+            new File(ClassLoader.getSystemResource("tables/clients_table.txt").getPath());
     
     @HiveResource(targetFile = "${hiveconf:MY.HDFS.DIR}/locations/locations_table.csv")
     private File dataFromFile5 =
-            new File(ClassLoader.getSystemResource("testCasesResources/locations_table.txt").getPath());
+            new File(ClassLoader.getSystemResource("tables/locations_table.txt").getPath());
     
     @HiveResource(targetFile = "${hiveconf:MY.HDFS.DIR}/products/products_table.csv")
     private File dataFromFile6 =
-            new File(ClassLoader.getSystemResource("testCasesResources/products_table.txt").getPath());
+            new File(ClassLoader.getSystemResource("tables/products_table.txt").getPath());
     
     @HiveResource(targetFile = "${hiveconf:MY.HDFS.DIR}/sales/sales_table.csv")
     private File dataFromFile7 =
-            new File(ClassLoader.getSystemResource("testCasesResources/sales_table.txt").getPath());
+            new File(ClassLoader.getSystemResource("tables/sales_table.txt").getPath());
     
     @HiveResource(targetFile = "${hiveconf:MY.HDFS.DIR}/transactions/transactions_table.csv")
     private File dataFromFile8 =
-            new File(ClassLoader.getSystemResource("testCasesResources/transactions_table.txt").getPath());
+            new File(ClassLoader.getSystemResource("tables/transactions_table.txt").getPath());
 
     @HiveSQL(files = {
-            "testCasesResources/create_clients.hql",
-            "testCasesResources/create_transactions.hql",
-            "testCasesResources/create_categories.hql",
-            "testCasesResources/create_ccards.hql",
-            "testCasesResources/create_locations.hql",
-            "testCasesResources/create_products.hql",
-            "testCasesResources/create_sales.hql"}, encoding = "UTF-8")
+            "creates/create_clients.hql",
+            "creates/create_transactions.hql",
+            "creates/create_categories.hql",
+            "creates/create_ccards.hql",
+            "creates/create_locations.hql",
+            "creates/create_products.hql",
+            "creates/create_sales.hql"}, encoding = "UTF-8")
+    
     private HiveShell hiveShell;
 
     //Metodos auxiliares para leitura de arquivos
@@ -103,23 +104,28 @@ public class TestCasesSprint_01 {
         return Files.readAllLines(path, ENCODING);
     }
     
+    List<String> trimList(List<String> listToTrim)
+    {
+    	if(!(listToTrim.size()<=listSize))
+    		listToTrim = listToTrim.subList(0, listSize-1);
+		return listToTrim;
+    }
+    
     List<String> getExpected(int indexFile) throws IOException
     {
     	List<String> result = readTextFile(resultFiles.get(indexFile));
-    	List<String> expected = result.subList(0, toIndex);//Arrays.asList(result.get(0));
-		Collections.sort(expected);
-    	return expected;
-    	
+    	Collections.sort(result);
+    	result = trimList(result);
+    	return result;
     }
     
     List<String> getActual(int indexFile) throws IOException
     {
     	List<String> query = readTextFile(queryFiles.get(indexFile));
     	List<String> actual = hiveShell.executeQuery(query.get(0));
-        //List<String> expectedShort = expected.subList(0, toIndex);
-        List<String> actualShort = actual.subList(0, toIndex);
-		return actualShort;
-    	
+    	Collections.sort(actual);
+    	actual = trimList(actual);
+    	return actual;
     }
     
     //FIm do trecho para metodos auxiliares
@@ -140,8 +146,21 @@ public class TestCasesSprint_01 {
         Assert.assertEquals(getExpected(0), getActual(0));
     }
     
+    //@Test
+    public void testQuery_00() throws IOException {
+    	List<String> result = readTextFile(resultFiles.get(1));
+    	List<String> expected = result.subList(0, listSize);//Arrays.asList(result.get(0));
+		Collections.sort(expected);
+    	//List<String> query = readTextFile(queryFiles.get(1));
+    	List<String> actual = hiveShell.executeQuery("select * from transactions");
+    	//System.out.println(actual);
+    	Assert.assertEquals(1,1);
+    }
+    
     @Test
     public void testQuery_02() throws IOException {
+    	List<String> expected = getExpected(1);
+    	List<String> actual = getActual(1);
     	Assert.assertEquals(getExpected(1), getActual(1));
     }
     

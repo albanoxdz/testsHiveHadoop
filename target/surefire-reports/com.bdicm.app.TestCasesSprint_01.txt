@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------
+Test set: com.bdicm.app.TestCasesSprint_01
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 39.616 sec <<< FAILURE! - in com.bdicm.app.TestCasesSprint_01
+testQuery_08(com.bdicm.app.TestCasesSprint_01)  Time elapsed: 0.751 sec  <<< ERROR!
+java.lang.IllegalStateException: Failed to executeQuery Hive query SELECT c.cat_name, cli.cli_id, cli.cli_lastname, count(sale_id) FROM clients cli, sales s, products p, categories c WHERE cli.cli_id=s.sale_cli_id and s.sale_prod_id=p.prd_id and p.prd_category_id=c.cat_id and c.cat_id in (1) GROUP BY c.cat_name, cli.cli_id, cli.cli_lastname: Query returned non-zero code: 40000, cause: FAILED: ParseException line 1:80 cannot recognize input near 'cli' ',' 'sales' in table source
+
+	at org.apache.hadoop.hive.service.HiveServer$HiveServerHandler.execute(HiveServer.java:219)
+	at com.klarna.hiverunner.HiveServerContainer.executeQuery(HiveServerContainer.java:90)
+	at com.klarna.hiverunner.builder.HiveShellBase.executeQuery(HiveShellBase.java:76)
+	at com.bdicm.app.TestCasesSprint_01.getActual(TestCasesSprint_01.java:125)
+	at com.bdicm.app.TestCasesSprint_01.testQuery_08(TestCasesSprint_01.java:194)
+
+testQuery_09(com.bdicm.app.TestCasesSprint_01)  Time elapsed: 2.34 sec  <<< FAILURE!
+java.lang.AssertionError: expected:<[  	256.98, (Rx)  	261.55, 24	48.663, AC  	45.209, APAP  	194.228, Abilify  	29.704, Acetonide  	56.972, Actos  	14.218, Advair  	16.462, Albuterol  	122.833, Alendronate  	44.834, Alprazolam  	38.075, Amitriptyline  	63.808, Amlodipine  	24.094, Amoxicillin  	238.944, Amphetamine  	56.779, Atenolol  	162.136, Azithromycin  	86.009, Benicar  	33.397]> but was:<[  	256.97999999999996, (Rx)  	261.55, 24  	48.663, AC  	45.209, APAP  	194.228, Abilify  	29.704, Acetonide  	56.972, Actos  	14.218, Advair  	16.462, Albuterol  	122.833, Alendronate  	44.834, Alprazolam  	38.075, Amitriptyline  	63.80799999999999, Amlodipine  	24.094, Amoxicillin  	238.94400000000002, Amphetamine  	56.778999999999996, Atenolol  	162.136, Azithromycin  	86.009, Benicar  	33.397]>
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.Assert.failNotEquals(Assert.java:743)
+	at org.junit.Assert.assertEquals(Assert.java:118)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at com.bdicm.app.TestCasesSprint_01.testQuery_09(TestCasesSprint_01.java:199)
+
